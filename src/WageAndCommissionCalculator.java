@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Atividade1 {
+public class WageAndCommissionCalculator {
     public static void main(String[] args) {
 
         Scanner newUser = new Scanner(System.in);
