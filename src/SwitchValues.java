@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Atividade2 {
+public class SwitchValues {
     public static void main(String[] args) {
         Scanner newValue = new Scanner(System.in);
         Scanner respostaUsuario = new Scanner (System.in);
